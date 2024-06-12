@@ -1,0 +1,1 @@
+Lecture 1 is about creating and styling home page. 
