@@ -13,3 +13,7 @@ we can use use justify content:flex-start, flex-end.
 
 we can use hover, and button[disabled]. disabled means when button has been clicked. we can set cursor 
 not-allowed. 
+
+
+After adding all the css properties, we will move to lecture 02. 
+create game.html and css page. 
